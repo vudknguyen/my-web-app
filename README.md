@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can refer to .circleci/config.yml for circleci pipeline definition
+
 ## Available Scripts
 
 In the project directory, you can run:
