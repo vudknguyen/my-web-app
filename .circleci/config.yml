@@ -24,7 +24,6 @@ jobs:
     machine:
       enabled: true
     steps:
-      - setup_remote_docker
       - checkout
       - run:
           name: build image
